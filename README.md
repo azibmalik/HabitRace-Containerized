@@ -263,20 +263,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Express.js** - For the robust backend framework
 - **Docker & Kubernetes** - For containerization and orchestration
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/azibmalik/habitrace/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/azibmalik/habitrace/discussions)
-- **Wiki**: [Project Wiki](https://github.com/azibmalik/habitrace/wiki)
-
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
-
-[![GitHub stars](https://img.shields.io/github/stars/azibmalik/habitrace?style=social)](https://github.com/azibmalik/habitrace)
-[![GitHub forks](https://img.shields.io/github/forks/azibmalik/habitrace?style=social)](https://github.com/azibmalik/habitrace)
-[![GitHub issues](https://img.shields.io/github/issues/azibmalik/habitrace)](https://github.com/azibmalik/habitrace)
-
+**Made with ❤️ by Azib Malik**
 </div>
