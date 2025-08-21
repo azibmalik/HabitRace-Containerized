@@ -17,7 +17,7 @@ This guide will walk you through setting up your HabitRace project on GitHub ste
 2. **Click the "+" icon** in the top-right corner
 3. **Select "New repository"**
 4. **Fill in the repository details:**
-   - **Repository name**: `habitrace` (or `HabitRace-Containerized`)
+   - **Repository name**: `HabitRace-Containerized` (or `HabitRace-Containerized`)
    - **Description**: `Real-time habit tracking app with React, Node.js, Socket.IO, Docker & Kubernetes`
    - **Visibility**: Choose Public or Private (Public recommended for portfolio)
    - **Initialize with**: ❌ **DO NOT** check any of these boxes
@@ -30,8 +30,8 @@ This guide will walk you through setting up your HabitRace project on GitHub ste
 After creating the repository, GitHub will show you commands. Use these:
 
 ```bash
-# Add the remote origin (replace YOUR_USERNAME with your actual GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/habitrace.git
+# Add the remote origin (replace azibmalik with your actual GitHub username)
+git remote add origin https://github.com/azibmalik/HabitRace-Containerized.git
 
 # Verify the remote was added
 git remote -v
@@ -99,10 +99,10 @@ git push origin main
 
 Once set up, your repository will have these URLs:
 
-- **Repository**: `https://github.com/YOUR_USERNAME/habitrace`
-- **Clone URL**: `https://github.com/YOUR_USERNAME/habitrace.git`
-- **Issues**: `https://github.com/YOUR_USERNAME/habitrace/issues`
-- **Discussions**: `https://github.com/YOUR_USERNAME/habitrace/discussions`
+- **Repository**: `https://github.com/azibmalik/HabitRace-Containerized`
+- **Clone URL**: `https://github.com/azibmalik/HabitRace-Containerized.git`
+- **Issues**: `https://github.com/azibmalik/HabitRace-Containerized/issues`
+- **Discussions**: `https://github.com/azibmalik/HabitRace-Containerized/discussions`
 
 ## 📱 Social Features
 

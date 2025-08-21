@@ -67,7 +67,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/habitrace.git
+   git clone https://github.com/azibmalik/habitrace.git
    cd habitrace
    ```
 
@@ -265,9 +265,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/habitrace/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/habitrace/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/habitrace/wiki)
+- **Issues**: [GitHub Issues](https://github.com/azibmalik/habitrace/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/azibmalik/habitrace/discussions)
+- **Wiki**: [Project Wiki](https://github.com/azibmalik/habitrace/wiki)
 
 ---
 
@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Your Name]**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/habitrace?style=social)](https://github.com/yourusername/habitrace)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/habitrace?style=social)](https://github.com/yourusername/habitrace)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/habitrace)](https://github.com/yourusername/habitrace)
+[![GitHub stars](https://img.shields.io/github/stars/azibmalik/habitrace?style=social)](https://github.com/azibmalik/habitrace)
+[![GitHub forks](https://img.shields.io/github/forks/azibmalik/habitrace?style=social)](https://github.com/azibmalik/habitrace)
+[![GitHub issues](https://img.shields.io/github/issues/azibmalik/habitrace)](https://github.com/azibmalik/habitrace)
 
 </div>
